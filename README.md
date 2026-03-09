@@ -27,7 +27,7 @@ The **AI Code Analyzer** is a Flask-based web application that allows users to u
 
 - **Backend**: Flask (Python)
 - **Frontend**: HTML, CSS, Highlight.js for syntax highlighting.
-- **Deployment**: [Render](https://ai-code-analyzer-app.onrender.com/) 
+- **Deployment**: [Render](https://ai-code-analyzer-ev5v.onrender.com/) 
 
 ---
 ## Getting Started
